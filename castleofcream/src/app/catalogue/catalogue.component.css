@@ -1,0 +1,17 @@
+.rotateRight90 {
+  transform: rotate(90deg);
+}
+
+.rotateLeft90{
+  transform: rotate(270deg);
+}
+
+.siphokazi{
+  width: 75%;
+ /* height: 15vw;*/
+  height: 15rem;
+  object-fit: cover;
+  align-content: center;
+}
+
+
